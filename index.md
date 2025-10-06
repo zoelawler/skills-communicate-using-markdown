@@ -6,3 +6,7 @@
 ###### This is an `<h6>` header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+int i = 1000;
+```
