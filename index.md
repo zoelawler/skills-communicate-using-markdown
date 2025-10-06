@@ -10,3 +10,7 @@
 ``` java
 int i = 1000;
 ```
+
+- [ ] Do 471 HW 6
+- [x] Feed cat
+- [ ] Make dinner
